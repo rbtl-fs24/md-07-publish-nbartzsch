@@ -1,9 +1,9 @@
 ---
 title: "A minimal example"
 date: today
-author: First Last 
+author: Nicolas Bartzsch
 format:
-  html:
+  html: 
     toc: true
 execute:
   warning: false
